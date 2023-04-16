@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: Hugo Ivy
+title: Alex
 theme: "hugo-ivy"
 googleAnalytics: ""
 disqusShortname: ""
@@ -31,7 +31,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "A Hugo theme ported from the static site generator Ivy."
+  description: "Alex's website"
   footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
